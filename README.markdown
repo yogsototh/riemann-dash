@@ -1,7 +1,10 @@
 Riemann-Dash
 ============
 
-A javascript, websockets-powered dashboard for Riemann.
+remark: the riemann config is the file `riemann-config`.
+It contains alert rules.
+
+Riemann-Dash is a javascript, websockets-powered dashboard for Riemann.
 
 Get started
 ==========
