@@ -1,6 +1,9 @@
 Riemann-Dash
 ============
 
+![screenshot](https://raw.githubusercontent.com/yogsototh/riemann-dash/master/img/riemann-dash-screenshot.png)
+
+
 Remark: the riemann config is the file `riemann.config`.
 It contains alert rules.
 
